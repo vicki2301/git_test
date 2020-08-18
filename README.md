@@ -1,0 +1,1 @@
+This is Vicki's first Git project!
